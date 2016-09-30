@@ -6,4 +6,4 @@ Magento test
     - Used in product listing: Yes
 - Assign created attribute to sample product data's "Accessories" attribute set displayed in "General Folder" for admin panel
 - Added values for this attribute to a few products (eyeglasses; skus: ace000, ace001 and ace002)
-- Modified directly list.phtmp within rwd templates to show values (if set).
+- Modified list.phtmp within created PiiMega templates to show delivery_time value (if set for product).
