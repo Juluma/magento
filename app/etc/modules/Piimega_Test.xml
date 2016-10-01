@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Piimega_Test>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Piimega_Test>
+    </modules>
+</config>
