@@ -14,5 +14,12 @@
                 </setup>
             </piimega_test_setup>
         </resources>
+        <blocks>
+            <adminhtml>
+                <rewrite>
+                    <catalog_product_grid>Piimega_Test_Adminhtml_Block_Catalog_Product_Grid</catalog_product_grid>
+                </rewrite>
+            </adminhtml>
+        </blocks>
     </global>
 </config>
